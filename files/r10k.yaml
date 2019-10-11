@@ -1,0 +1,6 @@
+---
+:cachedir: /var/cache/r10k
+:sources:
+  :local:
+    remote: https://github.com/faintdream/r10k-site
+    basedir: /etc/puppetlabs/code/environments
